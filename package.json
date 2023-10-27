@@ -3,6 +3,7 @@
 	"description": "started from the bottom now we way up",
 	"keywords": ["freecodecamp" , "testing" , ":3"],
 	"license": "UNLICENSED",
+	"version": "1.0.0.0.0.0.0.0.0.0.0.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
